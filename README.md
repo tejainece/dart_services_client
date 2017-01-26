@@ -1,19 +1,3 @@
-# dart_adapter
+# dart_services_client
 
-A library for Dart developers. It is awesome.
-
-## Usage
-
-A simple usage example:
-
-    import 'package:dart_adapter/dart_adapter.dart';
-
-    main() {
-      var awesome = new Awesome();
-    }
-
-## Features and bugs
-
-Please file feature requests and bugs at the [issue tracker][tracker].
-
-[tracker]: http://example.com/issues/replaceme
+A client library to access [Dart services](https://github.com/dart-lang/dart-services).

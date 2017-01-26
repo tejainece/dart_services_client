@@ -1,8 +1,8 @@
-name: dart_analysis_client
+name: dart_services_client
 description: Dart client library to access Dart analysis server
 version: 0.0.1
 author: Ravi Teja Gudapati <tejainece@gmail.com>
-homepage: https://www.example.com
+homepage: https://www.github.com/tejainece/dart_services_client
 
 environment:
   sdk: '>=1.0.0 <2.0.0'
